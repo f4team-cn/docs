@@ -11,7 +11,15 @@ export default defineConfig({
     },
     lastUpdated: true,
     srcDir: 'pages',
-    title: '挽星tEam',
+    title: '挽星tEam - 文档中心',
+    head: [
+        ['link',
+            {
+                rel: 'icon',
+                href: '/favicon.png'
+            }
+        ]
+    ],
     description: '挽星tEam 文档中心',
     sitemap: {
         hostname: 'https://docs.f4team.cn',
