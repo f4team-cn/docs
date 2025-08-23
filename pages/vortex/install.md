@@ -13,11 +13,11 @@
 
 根据您的设备架构选择合适的安装包：
 
-| 架构    | 下载链接                                                                                                                                                           | 适用设备                    |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| x64   | [![](https://img.shields.io/badge/⬇️_下载-x64安装包-blue?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.3-x64-setup.exe)      | 大多数现代计算机                |
-| ARM64 | [![](https://img.shields.io/badge/⬇️_下载-ARM64安装包-green?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.3-arm64-setup.exe) | ARM 设备（如 Surface Pro X） |
-| IA32  | [![](https://img.shields.io/badge/⬇️_下载-IA32安装包-orange?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.3-ia32-setup.exe)  | 老旧 32 位系统               |
+| 架构    | 下载链接                                                                                                                                                                | 适用设备                    |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| x64   | [![](https://img.shields.io/badge/⬇️_下载-x64安装包-blue?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.4-Beta-x64-setup.exe)      | 大多数现代计算机                |
+| ARM64 | [![](https://img.shields.io/badge/⬇️_下载-ARM64安装包-green?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.4-Beta-arm64-setup.exe) | ARM 设备（如 Surface Pro X） |
+| IA32  | [![](https://img.shields.io/badge/⬇️_下载-IA32安装包-orange?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.4-Beta-ia32-setup.exe)  | 老旧 32 位系统               |
 
 ## ℹ️ 安装提示
 
