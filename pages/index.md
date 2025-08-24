@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: 📚 全部文档
       link: /all
+    - theme: alt
+      text: 📞 联系我们
+      link: /contact
 
 features:
   - title: 🌟 Vortex 下载管理器

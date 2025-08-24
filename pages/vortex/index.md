@@ -25,6 +25,10 @@ features:
     details: 内置任务扩展机制，一键获取下载链接，简化流程。
   - title: 📡 实时监控
     details: 提供任务状态、速度、进度的实时展示与通知。
+  - title: 🌐 浏览器扩展
+    details: 用于拦截下载并转发到Vortex下载管理器的浏览器扩展。
+    link: ./browser-extension
+    linkText: 查看
   - title: 📚 完整文档
     details: 我们提供详尽的开发者文档和用户指南，帮助您快速上手和深度使用。
 ---

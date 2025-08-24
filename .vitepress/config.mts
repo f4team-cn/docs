@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { VortexSidebar } from './sidebar/vortex';
+import { IDSidebar } from './sidebar/id';
 import { groupIconMdPlugin, groupIconVitePlugin } from 'vitepress-plugin-group-icons';
 
 // https://vitepress.dev/reference/site-config
@@ -63,12 +64,21 @@ export default defineConfig({
                 link: '/vortex/'
             },
             {
+                text: '星链账户中心',
+                link: '/id/'
+            },
+            {
+                text: '联系我们',
+                link: '/contact'
+            },
+            {
                 text: '官网',
                 link: 'https://www.f4team.cn'
             }
         ],
         sidebar: {
-            '/vortex': VortexSidebar
+            '/vortex': VortexSidebar,
+            '/id': IDSidebar
         },
         outline: {
             label: '本页内容'

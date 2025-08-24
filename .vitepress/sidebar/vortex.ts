@@ -7,6 +7,10 @@ export const VortexSidebar = [
         link: '/vortex/install',
       },
       {
+        text: '浏览器扩展',
+        link: '/vortex/browser-extension'
+      },
+      {
         text: '扩展开发',
         link: '/vortex/provider'
       },
