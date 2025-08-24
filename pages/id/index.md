@@ -5,7 +5,6 @@
 ## 文档目录
 
 - [📱 应用申请](/id/application)
-- [📄 OAuth2接口文档示例](/id/oauth2-example)
 - [🔐 OAuth2授权页面](/id/oauth2-authorize)
 - [⚙️ OAuth2资源API](/id/oauth2-resource)
 

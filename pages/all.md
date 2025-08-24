@@ -22,9 +22,8 @@ layout: doc
 
 挽星tEam统一账户服务，为其他程序提供账户管理功能。
 
-- [📱 应用申请](./application)
-- [📄 OAuth2接口文档示例](./oauth2-example)
-- [🔐 OAuth2授权页面](./oauth2-authorize)
-- [⚙️ OAuth2资源API](./oauth2-resource)
+- [📱 应用申请](/id/application)
+- [🔐 OAuth2授权页面](/id/oauth2-authorize)
+- [⚙️ OAuth2资源API](/id/oauth2-resource)
 
 ---
