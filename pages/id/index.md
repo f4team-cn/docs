@@ -4,10 +4,10 @@
 
 ## 文档目录
 
-- [📱 应用申请](./application)
-- [📄 OAuth2接口文档示例](./oauth2-example)
-- [🔐 OAuth2授权页面](./oauth2-authorize)
-- [⚙️ OAuth2资源API](./oauth2-resource)
+- [📱 应用申请](/id/application)
+- [📄 OAuth2接口文档示例](/id/oauth2-example)
+- [🔐 OAuth2授权页面](/id/oauth2-authorize)
+- [⚙️ OAuth2资源API](/id/oauth2-resource)
 
 ## 联系我们
 
