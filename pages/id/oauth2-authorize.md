@@ -37,7 +37,7 @@ Host: id.f4team.cn
 
 ### 2. 获取访问令牌
 - **URL**: `/api/oauth2/openapi/token`
-- **方法**: `POST`
+- **方法**: `GET`
 - **描述**: 使用授权码获取访问令牌。
 - **参数**:
   - `client_id`: 应用的客户端ID。
