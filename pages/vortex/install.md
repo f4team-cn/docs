@@ -23,15 +23,15 @@
 
 | 架构    | 下载链接                                                                                                                                                           | 适用设备                    |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| x64   | [![](https://img.shields.io/badge/⬇️_下载-x64安装包-blue?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.6-x64-setup.exe)      | 大多数现代计算机                |
-| ARM64 | [![](https://img.shields.io/badge/⬇️_下载-ARM64安装包-green?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.6-arm64-setup.exe) | ARM 设备（如 Surface Pro X） |
-| IA32  | [![](https://img.shields.io/badge/⬇️_下载-IA32安装包-orange?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.6-ia32-setup.exe)  | 老旧 32 位系统               |
+| x64   | [![](https://img.shields.io/badge/⬇️_下载-x64安装包-blue?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.8-x64-setup.exe)      | 大多数现代计算机                |
+| ARM64 | [![](https://img.shields.io/badge/⬇️_下载-ARM64安装包-green?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.8-arm64-setup.exe) | ARM 设备（如 Surface Pro X） |
+| IA32  | [![](https://img.shields.io/badge/⬇️_下载-IA32安装包-orange?style=for-the-badge&logo=windows)](https://updater.f4team.cn/vortex/win32/vortex-1.1.8-ia32-setup.exe)  | 老旧 32 位系统               |
 
 ### Android 版本
 
-| 版本 | 下载链接                                                                                                                                                          | 说明 |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| APK  | [![](https://img.shields.io/badge/⬇️_下载-Android_APK-blue?style=for-the-badge&logo=android)](https://updater.f4team.cn/vortex/android/vortex-android.apk) | 直接安装APK文件，适用于所有Android设备 |
+| 版本  | 下载链接                                                                                                                                              | 说明                       |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| APK | [![](https://img.shields.io/badge/⬇️_下载-Android_APK-blue?style=for-the-badge&logo=android)](https://pan.qzyun.net/f/QOGncX/vortex-1.1.1-beta.apk) | 直接安装APK文件，适用于所有Android设备 |
 
 ## ℹ️ 安装提示
 
