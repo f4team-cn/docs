@@ -18,9 +18,5 @@ features:
     details: 一个现代化的 Aria2 下载管理器，轻量、灵活、可扩展，让下载管理更高效。
     link: /vortex/index
     linkText: 查看
-  - title: 🔐 星链账户中心
-    details: 挽星tEam 账户中心，为其他程序提供账户服务。
-    link: /id/index
-    linkText: 查看
 ---
 
